@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "414882877305",
+    "firebase_url": "https://quizup-41f73.firebaseio.com",
+    "project_id": "quizup-41f73",
+    "storage_bucket": "quizup-41f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414882877305:android:5937b96e31bd89c605a9a8",
+        "android_client_info": {
+          "package_name": "com.edapt.Quizup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414882877305-gmifvt5j3ubqaalr5br0vleuosgupkud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edapt.Quizup",
+            "certificate_hash": "b64e823df3e753e1e6654f8625901ecad1ea3246"
+          }
+        },
+        {
+          "client_id": "414882877305-41587ob3is9amvpu6a958es8nobi9m75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGe-qoaeo3W2M7YiofN4xy48DS9lU93H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414882877305-41587ob3is9amvpu6a958es8nobi9m75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414882877305-vq8s7gtmbudjdpe27lkq796k6e2ndkr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414882877305:android:25d15d9c635d25db05a9a8",
+        "android_client_info": {
+          "package_name": "com.edapt.quizzup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414882877305-41587ob3is9amvpu6a958es8nobi9m75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGe-qoaeo3W2M7YiofN4xy48DS9lU93H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414882877305-41587ob3is9amvpu6a958es8nobi9m75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414882877305-vq8s7gtmbudjdpe27lkq796k6e2ndkr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

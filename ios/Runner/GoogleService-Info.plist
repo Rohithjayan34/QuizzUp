@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605081386837-96ddvf9k98i7ctc417hib2o519rnlu2l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605081386837-96ddvf9k98i7ctc417hib2o519rnlu2l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>605081386837-ajgks644njq70j2bk4egjapnueshb9e9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvxrDfwV7mJiKTdqgUIVnTPCWFUFlY_kw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605081386837</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.facebookAuth</string>
+	<key>PROJECT_ID</key>
+	<string>authentication-db332</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authentication-db332.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605081386837:ios:54ce9698c1ae829ad979dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://authentication-db332.firebaseio.com</string>
+</dict>
+</plist>
